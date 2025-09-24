@@ -1,6 +1,6 @@
 # Phishing-email-sample
 Analyzing an phishing email sample 
-Header of an phishing email sample:
+# Header of an phishing email sample:
 Received: from CY1PR0701MB1819.namprd07.prod.outlook.com (10.163.42.152) by
  SN1PR0701MB1822.namprd07.prod.outlook.com (10.162.100.151) with Microsoft
  SMTP Server (version=TLS1_2,
@@ -61,6 +61,7 @@ MIME-Version: 1.0
 
 Here is rhe REsult of an Online header analyzer:<img width="1351" height="522" alt="Screenshot 2025-09-23 201903" src="https://github.com/user-attachments/assets/1af68963-1ffd-447f-86bd-e54710e7ce9a" />
 <img width="1343" height="582" alt="Screenshot 2025-09-23 201622" src="https://github.com/user-attachments/assets/9e1438a5-b11a-487e-be95-cc89a87e7879" />
+# Result
 Hence it indicates the above email sample is spam email the has sender email address hidden so that the true intentions of the sender to lure the victums to click virus links in form of offers.
 
 
